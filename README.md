@@ -1,4 +1,4 @@
-Pro App Database \& Analytics Project
+**Pro App Database \& Analytics Project**
 
 
 
@@ -6,7 +6,7 @@ This project demonstrates the design and implementation of a relational database
 
 
 
-🚀 Features
+**🚀 Features**
 
 
 
@@ -32,7 +32,7 @@ This project demonstrates the design and implementation of a relational database
 
 
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 
 
