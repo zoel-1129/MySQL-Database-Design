@@ -36,7 +36,7 @@ This project demonstrates the design and implementation of a relational database
 
 
 
-* Database Design: Chen’s ER Notation
+* Database Design: Chen’s ERD Notation
 * Implementation: MySQL
 * Analytics: SQL queries for business insights
 * Documentation: Business report explaining schema, queries, and methodology
