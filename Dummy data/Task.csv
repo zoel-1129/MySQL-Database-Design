@@ -1,0 +1,86 @@
+customer_id,task_title,budget,task_desc,due_date,creation_date,certification_required,expertise_area
+12,Build a garden shed,1500,Construct a garden shed in my backyard.,10-05-24 12:00,26-09-23 8:00,1,Landscaping
+45,Install new plumbing,2000,Need to replace old pipes in the kitchen.,15-03-24 9:00,20-09-23 9:00,1,Plumbing
+67,Electricity upgrade,1800,Upgrade electrical system for safety.,30-01-24 14:00,15-09-23 12:00,1,Electrical
+23,House painting,1200,Paint the interior of the house.,10-02-24 10:00,18-09-23 11:00,0,Painting
+38,Create a backyard patio,2500,Install a stone patio in my backyard.,25-04-24 13:30,22-09-23 15:00,1,Landscaping
+92,Garden landscaping,900,Design and implement a garden layout.,05-06-24 10:30,30-09-23 10:30,1,Landscaping
+54,Home electrical repair,400,Fix flickering lights in living room.,15-10-23 8:00,21-09-23 10:00,0,Electrical
+33,Install security system,700,Need help installing a new security system.,01-11-23 14:00,23-09-23 15:00,1,Electrical
+19,New roof installation,5000,Replace the entire roof of the house.,01-04-24 12:00,14-09-23 9:00,1,Construction
+76,Clean gutters,250,Need someone to clean my gutters.,20-10-23 16:00,17-09-23 10:00,0,Cleaning
+1,Install new windows,3000,Replace old windows with new ones.,01-03-24 10:00,28-09-23 10:00,1,Construction
+68,Make a custom shelf,500,Build a shelf for my living room.,10-01-24 11:00,29-09-23 9:00,0,Carpentry
+99,Design an office space,800,Need help designing my home office.,15-02-24 13:00,11-09-23 8:00,0,Interior Design
+20,Carpet installation,1200,Install new carpet in living room.,25-10-23 10:30,16-09-23 15:00,1,Flooring
+12,Build a fence,1500,Construct a wooden fence around my yard.,15-05-24 12:00,26-09-23 8:00,1,Construction
+45,Install bathroom tiles,1000,Need tiles installed in my bathroom.,20-03-24 9:00,20-09-23 9:00,1,Tiling
+67,Air conditioning installation,2500,Install new AC unit in my home.,20-01-24 14:00,15-09-23 12:00,1,HVAC
+23,Assemble furniture,150,Need help assembling a large desk.,05-02-24 10:00,18-09-23 11:00,0,Carpentry
+38,Repair fence,300,Fix the broken fence in my yard.,30-04-24 13:30,22-09-23 15:00,0,Construction
+92,Paint exterior,2000,Need to paint the outside of my house.,10-06-24 10:30,30-09-23 10:30,1,Painting
+54,Install ceiling fan,400,Install a ceiling fan in the living room.,15-10-23 8:00,21-09-23 10:00,1,Electrical
+33,Install drywall,1500,Need drywall installation for my new room.,01-11-23 14:00,23-09-23 15:00,1,Construction
+19,Flooring replacement,2000,Replace old flooring with new.,01-04-24 12:00,14-09-23 9:00,1,Flooring
+76,Landscape garden,900,Redesign the garden layout and planting.,20-10-23 16:00,17-09-23 10:00,1,Landscaping
+1,Custom cabinetry,1200,Build cabinets for the kitchen.,01-03-24 10:00,28-09-23 10:00,1,Carpentry
+68,Upgrade electrical panel,3000,Need to upgrade the electrical panel.,10-01-24 11:00,29-09-23 9:00,1,Electrical
+99,Backyard redesign,800,Need ideas for a new backyard layout.,15-02-24 13:00,11-09-23 8:00,0,Landscaping
+20,Repair plumbing leak,400,Fix the leak under the kitchen sink.,25-10-23 10:30,16-09-23 15:00,1,Plumbing
+12,Install shower,1200,Need to install a new shower unit.,15-05-24 12:00,26-09-23 8:00,1,Plumbing
+45,New home construction,15000,Build a new home from the ground up.,20-03-24 9:00,20-09-23 9:00,1,Construction
+67,Create a home office,1000,Design and implement a home office space.,20-01-24 14:00,15-09-23 12:00,0,Interior Design
+23,Install windows,3000,Replace windows in the living room.,10-02-24 10:00,18-09-23 11:00,1,Construction
+38,Assemble playset,500,Need help putting together a children's playset.,25-04-24 13:30,22-09-23 15:00,0,Carpentry
+92,Install insulation,1500,Install insulation in the attic.,05-06-24 10:30,30-09-23 10:30,1,Construction
+54,Pressure wash driveway,200,Clean the driveway with a pressure washer.,15-10-23 8:00,21-09-23 10:00,0,Cleaning
+33,Kitchen renovation,8000,Complete renovation of the kitchen.,01-11-23 14:00,23-09-23 15:00,1,Construction
+19,Replace patio doors,1500,Install new patio doors in the living room.,01-04-24 12:00,14-09-23 9:00,1,Construction
+76,Roof inspection,300,Inspect the roof for damage.,20-10-23 16:00,17-09-23 10:00,0,Construction
+1,Install a water heater,1000,Replace the old water heater with a new one.,01-03-24 10:00,28-09-23 10:00,1,Plumbing
+68,Bathroom remodeling,5000,Complete remodel of the bathroom.,10-01-24 11:00,29-09-23 9:00,1,Interior Design
+99,Deck construction,2000,Build a deck in the backyard.,15-02-24 13:00,11-09-23 8:00,1,Construction
+20,Cleaning service,300,Need a cleaning service for my home.,25-10-23 10:30,16-09-23 15:00,0,Cleaning
+12,Install new lighting,400,Need help installing new lights.,15-05-24 12:00,26-09-23 8:00,1,Electrical
+45,Complete home renovation,15000,Full renovation of the entire house.,20-03-24 9:00,20-09-23 9:00,1,Construction
+67,Install new HVAC system,3500,Install a new heating and cooling system.,20-01-24 14:00,15-09-23 12:00,1,HVAC
+23,Create a garden path,600,Install a stone path in the garden.,10-02-24 10:00,18-09-23 11:00,0,Landscaping
+38,Install kitchen cabinets,1500,Need new cabinets installed in the kitchen.,25-04-24 13:30,22-09-23 15:00,1,Carpentry
+92,Roof cleaning,200,Need to clean the roof of debris.,15-10-23 8:00,21-09-23 10:00,0,Cleaning
+54,Install a new bathtub,800,Need a new bathtub installed in the bathroom.,01-11-23 14:00,23-09-23 15:00,1,Plumbing
+33,Create a garden bed,250,Build a raised garden bed in the backyard.,20-10-23 16:00,17-09-23 10:00,0,Landscaping
+19,Install laminate flooring,1200,Replace carpet with laminate flooring.,01-04-24 12:00,14-09-23 9:00,1,Flooring
+76,Home cleaning,150,Regular cleaning of the house.,20-10-23 16:00,17-09-23 10:00,0,Cleaning
+1,Install a fence gate,500,Build and install a gate for the fence.,01-03-24 10:00,28-09-23 10:00,0,Construction
+68,Install shower doors,300,Install new glass shower doors.,10-01-24 11:00,29-09-23 9:00,1,Plumbing
+99,Repair drywall,400,Fix damaged drywall in living room.,15-02-24 13:00,11-09-23 8:00,0,Construction
+20,Outdoor lighting installation,700,Install outdoor lighting in the backyard.,25-10-23 10:30,16-09-23 15:00,1,Electrical
+12,Kitchen backsplash installation,300,Install a new backsplash in the kitchen.,15-05-24 12:00,26-09-23 8:00,1,Tiling
+45,Assemble BBQ grill,200,Need help assembling a BBQ grill.,20-03-24 9:00,20-09-23 9:00,0,Carpentry
+23,Install kitchen cabinets,2000,Need help installing new kitchen cabinets.,20-02-24 14:00,19-09-23 10:00,1,Carpentry
+38,Build a wooden deck,4000,Construct a wooden deck in the backyard.,05-03-24 12:00,24-09-23 9:00,1,Construction
+92,Fix electrical wiring,500,Need to repair faulty electrical wiring in the house.,30-10-23 8:00,22-09-23 10:00,1,Electrical
+54,Landscape design consultation,150,Consultation for garden design ideas.,10-11-23 10:00,27-09-23 15:00,0,Landscaping
+33,Set up home theater,1200,Install and configure a home theater system.,01-01-24 10:00,29-09-23 11:00,0,Electrical
+19,Repair drywall,400,Fix damaged drywall in the hallway.,05-10-23 14:00,20-09-23 10:00,1,Construction
+76,Install window blinds,200,Need to install blinds in the living room windows.,15-10-23 9:00,21-09-23 15:00,0,Interior Design
+1,Patio furniture assembly,100,Assemble patio furniture set.,15-02-24 14:30,25-09-23 9:00,0,Carpentry
+67,Install a new fence,1500,Construct a new fence for the backyard.,30-03-24 10:00,24-09-23 10:00,1,Construction
+23,Upgrade kitchen appliances,2500,Replace kitchen appliances with new ones.,15-04-24 11:00,30-09-23 11:00,0,Electrical
+38,Install garden lights,300,Install solar lights in the garden.,05-05-24 12:00,26-09-23 8:00,1,Electrical
+92,Pressure wash house,250,Wash the exterior of the house with a pressure washer.,10-01-24 9:30,28-09-23 11:30,0,Cleaning
+54,Remodel bathroom,3000,Complete remodel of the existing bathroom.,15-10-23 10:00,15-09-23 10:00,1,Construction
+33,Install shelving units,500,Need help with installing shelving units in the garage.,01-02-24 14:00,29-09-23 12:00,0,Carpentry
+19,Build storage shed,1200,Construct a storage shed in the backyard.,20-03-24 11:00,14-09-23 9:00,1,Construction
+76,Install a new sink,500,Replace the kitchen sink with a new one.,10-04-24 10:00,21-09-23 15:00,1,Plumbing
+1,Create a home gym,1500,Design and set up a home gym area.,05-10-23 14:00,19-09-23 9:00,0,Interior Design
+34,Repair outdoor lighting,300,Fix the outdoor lights that are not working.,28-04-24 18:00,12-09-23 16:00,1,Electrical
+25,Replace bathroom tiles,1200,Remove old tiles and install new ones in the bathroom.,20-03-24 10:00,30-09-23 10:00,1,Tiling
+57,Install a fire pit,800,Build a fire pit in the backyard for gatherings.,15-06-24 16:00,11-09-23 12:30,1,Landscaping
+46,Install solar panels,8000,Need to install solar panels on the roof.,05-04-24 9:00,22-09-23 10:00,1,Electrical
+15,Build a treehouse,2000,Construct a treehouse for the kids in the backyard.,20-07-24 14:00,15-09-23 13:00,1,Carpentry
+39,Update HVAC system,3500,Upgrade the HVAC system for better efficiency.,25-01-24 10:00,24-09-23 14:00,1,HVAC
+21,Renovate living room,4000,Complete renovation of the living room space.,15-03-24 10:30,19-09-23 15:30,1,Interior Design
+55,Install closet organizers,600,Need help installing organizers in my closet.,22-02-24 12:00,11-09-23 8:30,0,Interior Design
+70,Clean and organize garage,300,Help with cleaning and organizing the garage space.,30-05-24 10:00,28-09-23 12:00,0,Cleaning
+10,Upgrade to smart thermostat,250,Install a smart thermostat for energy efficiency.,15-01-24 9:00,26-09-23 11:00,1,HVAC

@@ -1,0 +1,117 @@
+tasker_id,customer_id,pmt_status,pmt_amount,pmt_type,date_recorded
+1,100,Successful,300,Credit Card,2023-09-25 12:00:00
+2,99,Failed,320,PayPal,2023-09-26 13:15:00
+3,98,Successful,350,E-money,2023-09-27 14:30:00
+4,97,Successful,280,Credit Card,2023-09-28 15:45:00
+5,96,Successful,400,Credit Card,2023-09-29 17:00:00
+6,95,Failed,260,E-money,2023-09-30 18:15:00
+7,94,Successful,370,PayPal,2023-10-01 19:30:00
+8,93,Failed,350,Credit Card,2023-10-02 20:45:00
+9,92,Successful,330,Credit Card,2023-10-03 22:00:00
+10,91,Successful,380,E-money,2023-10-04 23:15:00
+11,90,Failed,300,PayPal,2023-10-06 00:30:00
+12,89,Successful,290,Credit Card,2023-10-07 01:45:00
+13,88,Successful,320,E-money,2023-10-08 03:00:00
+14,87,Failed,340,PayPal,2023-10-09 04:15:00
+15,86,Successful,360,Credit Card,2023-10-10 05:30:00
+16,85,Successful,400,Credit Card,2023-10-11 06:45:00
+17,84,Failed,380,E-money,2023-10-12 08:00:00
+18,83,Successful,300,PayPal,2023-10-13 09:15:00
+19,82,Successful,340,Credit Card,2023-10-14 10:30:00
+20,81,Failed,330,E-money,2023-10-15 11:45:00
+21,80,Successful,320,PayPal,2023-10-16 13:00:00
+22,79,Successful,350,Credit Card,2023-10-17 14:15:00
+23,78,Failed,280,Credit Card,2023-10-18 15:30:00
+24,77,Successful,310,E-money,2023-10-19 16:45:00
+25,76,Successful,360,Credit Card,2023-10-20 18:00:00
+26,75,Failed,340,PayPal,2023-10-21 19:15:00
+27,74,Successful,320,Credit Card,2023-10-22 20:30:00
+28,73,Successful,300,E-money,2023-10-23 21:45:00
+29,72,Failed,330,PayPal,2023-10-24 23:00:00
+30,71,Successful,360,Credit Card,2023-10-26 00:15:00
+31,70,Successful,400,Credit Card,2023-10-27 01:30:00
+32,69,Failed,350,E-money,2023-10-28 02:45:00
+33,68,Successful,390,PayPal,2023-10-29 04:00:00
+34,67,Failed,290,Credit Card,2023-10-30 05:15:00
+35,66,Successful,320,E-money,2023-10-31 06:30:00
+36,65,Successful,340,PayPal,2023-11-01 07:45:00
+37,64,Failed,370,Credit Card,2023-11-02 09:00:00
+38,63,Successful,310,E-money,2023-11-03 10:15:00
+39,62,Successful,380,Credit Card,2023-11-04 11:30:00
+40,61,Failed,280,PayPal,2023-11-05 12:45:00
+41,60,Successful,340,Credit Card,2023-11-06 14:00:00
+42,59,Successful,320,E-money,2023-11-07 15:15:00
+43,58,Failed,360,PayPal,2023-11-08 16:30:00
+44,57,Successful,330,Credit Card,2023-11-09 17:45:00
+45,56,Successful,300,Credit Card,2023-11-10 19:00:00
+46,55,Failed,400,E-money,2023-11-11 20:15:00
+47,54,Successful,350,PayPal,2023-11-12 21:30:00
+48,53,Failed,320,Credit Card,2023-11-13 22:45:00
+49,52,Successful,310,E-money,2023-11-15 00:00:00
+50,51,Successful,370,Credit Card,2023-11-16 01:15:00
+51,50,Failed,380,PayPal,2023-11-17 02:30:00
+52,49,Successful,290,Credit Card,2023-11-18 03:45:00
+53,48,Successful,360,E-money,2023-11-19 05:00:00
+54,47,Failed,320,PayPal,2023-11-20 06:15:00
+55,46,Successful,340,Credit Card,2023-11-21 07:30:00
+56,45,Successful,390,E-money,2023-11-22 08:45:00
+57,44,Failed,280,PayPal,2023-11-23 10:00:00
+58,43,Successful,360,Credit Card,2023-11-24 11:15:00
+59,42,Successful,330,Credit Card,2023-11-25 12:30:00
+60,41,Failed,320,E-money,2023-11-26 13:45:00
+61,40,Successful,380,PayPal,2023-11-27 15:00:00
+62,39,Failed,300,Credit Card,2023-11-28 16:15:00
+63,38,Successful,330,E-money,2023-11-29 17:30:00
+64,37,Successful,360,Credit Card,2023-11-30 18:45:00
+65,36,Failed,400,PayPal,2023-12-01 20:00:00
+66,35,Successful,350,Credit Card,2023-12-02 21:15:00
+67,34,Successful,380,E-money,2023-12-03 22:30:00
+5,96,Successful,400,Credit Card,2023-12-04 23:45:00
+6,95,Failed,260,E-money,2023-12-06 01:00:00
+7,94,Successful,370,PayPal,2023-12-07 02:15:00
+8,93,Failed,350,Credit Card,2023-12-08 03:30:00
+8,93,Successful,330,Credit Card,2023-12-09 04:45:00
+10,91,Successful,380,E-money,2023-12-10 06:00:00
+11,90,Failed,300,PayPal,2023-12-11 07:15:00
+12,89,Successful,290,Credit Card,2023-12-12 08:30:00
+13,88,Successful,320,E-money,2023-12-13 09:45:00
+14,87,Failed,340,PayPal,2023-12-14 11:00:00
+15,86,Successful,360,Credit Card,2023-12-15 12:15:00
+16,85,Successful,400,Credit Card,2023-12-16 13:30:00
+17,84,Failed,380,E-money,2023-12-17 14:45:00
+18,83,Successful,300,PayPal,2023-12-18 16:00:00
+19,82,Successful,340,Credit Card,2023-12-19 17:15:00
+20,81,Failed,330,E-money,2023-12-20 18:30:00
+21,80,Successful,320,PayPal,2023-12-21 19:45:00
+22,79,Successful,350,Credit Card,2023-12-22 21:00:00
+23,78,Failed,280,Credit Card,2023-12-23 22:15:00
+24,77,Successful,310,E-money,2023-12-24 23:30:00
+25,76,Successful,360,Credit Card,2023-12-26 00:45:00
+26,75,Failed,340,PayPal,2023-12-27 02:00:00
+27,74,Successful,320,Credit Card,2023-12-28 03:15:00
+28,73,Successful,300,Credit Card,2023-12-29 04:30:00
+29,72,Failed,330,PayPal,2023-12-30 05:45:00
+30,71,Successful,360,Credit Card,2023-12-31 07:00:00
+31,70,Successful,400,Credit Card,2024-01-01 08:15:00
+32,69,Failed,350,E-money,2024-01-02 09:30:00
+33,68,Successful,390,PayPal,2024-01-03 10:45:00
+34,67,Failed,290,Credit Card,2024-01-04 12:00:00
+35,66,Successful,320,Credit Card,2024-01-05 13:15:00
+36,65,Successful,340,PayPal,2024-01-06 14:30:00
+37,64,Failed,370,Credit Card,2024-01-07 15:45:00
+38,63,Successful,310,Credit Card,2024-01-08 17:00:00
+39,62,Successful,380,Credit Card,2024-01-09 18:15:00
+40,61,Failed,280,PayPal,2024-01-10 19:30:00
+41,60,Successful,340,Credit Card,2024-01-11 20:45:00
+42,59,Successful,320,E-money,2024-01-12 22:00:00
+43,58,Failed,360,PayPal,2024-01-13 23:15:00
+44,57,Successful,330,Credit Card,2024-01-15 00:30:00
+45,56,Successful,300,Credit Card,2024-01-16 01:45:00
+46,55,Failed,400,E-money,2024-01-17 03:00:00
+47,54,Successful,350,PayPal,2024-01-18 04:15:00
+48,53,Failed,320,Credit Card,2024-01-19 05:30:00
+49,52,Successful,310,Credit Card,2024-01-20 06:45:00
+50,51,Successful,370,Credit Card,2024-01-21 08:00:00
+51,50,Failed,380,PayPal,2024-01-22 09:15:00
+52,49,Successful,290,Credit Card,2024-01-23 10:30:00
+53,48,Successful,360,E-money,2024-01-24 11:45:00

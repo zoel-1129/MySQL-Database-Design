@@ -1,0 +1,231 @@
+task_id,tasker_id,bid_price,date_recorded,customer_rating,tasker_rating,task_status,bid_status,cancel_reason,cancelled_by
+1,5,150,15-09-23 9:00,5,4,Assigned,Successful,NULL,NULL
+1,10,120,16-09-23 9:00,NULL,NULL,Not assigned,Pending,NULL,NULL
+1,15,130,17-09-23 9:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+2,3,200,18-09-23 10:00,4,5,Completed,Successful,NULL,NULL
+2,8,210,19-09-23 10:30,5,5,Completed,Successful,NULL,NULL
+2,20,190,20-09-23 11:00,NULL,NULL,Not assigned,Pending,NULL,NULL
+3,20,250,21-09-23 12:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+3,17,240,22-09-23 12:30,5,5,Assigned,Successful,NULL,NULL
+3,25,230,23-09-23 13:00,NULL,NULL,Not assigned,Pending,NULL,NULL
+4,25,300,24-09-23 14:00,3,3,Not assigned,Failed,Tasker unavailable,Tasker
+4,11,290,25-09-23 14:30,5,4,Assigned,Successful,NULL,NULL
+5,7,175,26-09-23 15:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+5,19,185,27-09-23 15:30,5,5,Assigned,Successful,NULL,NULL
+6,19,150,28-09-23 16:00,5,4,Completed,Successful,4,5
+6,13,160,29-09-23 16:30,NULL,NULL,Not assigned,Failed,NULL,NULL
+7,2,120,30-09-23 17:00,5,5,Assigned,Successful,NULL,NULL
+7,2,140,01-10-23 17:30,NULL,NULL,Cancelled,Successful,Customer changed mind,Customer
+8,14,300,02-10-23 18:00,5,4,Assigned,Successful,NULL,NULL
+9,1,100,03-10-23 18:30,5,5,Completed,Successful,5,4
+9,15,110,04-10-23 19:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+10,3,220,05-10-23 19:30,4,4,Assigned,Successful,NULL,NULL
+11,8,240,06-10-23 20:00,NULL,NULL,Not assigned,Pending,NULL,NULL
+12,8,260,07-10-23 20:30,3,2,Assigned,Successful,NULL,NULL
+13,17,200,08-10-23 21:00,5,5,Assigned,Successful,NULL,NULL
+14,4,180,09-10-23 21:30,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+15,6,150,10-10-23 22:00,3,3,Completed,Successful,3,4
+16,20,300,11-10-23 22:30,5,5,Assigned,Successful,NULL,NULL
+17,5,280,12-10-23 23:00,4,3,Not assigned,Failed,NULL,NULL
+18,1,130,13-10-23 23:30,NULL,NULL,Cancelled,Failed,Customer changed mind,Customer
+19,2,170,14-10-23 0:00,3,4,Assigned,Successful,NULL,NULL
+20,3,190,15-10-23 0:30,NULL,NULL,Not assigned,Failed,NULL,NULL
+21,4,160,16-10-23 1:00,5,5,Completed,Successful,5,5
+22,5,250,17-10-23 1:30,4,4,Assigned,Successful,NULL,NULL
+23,6,210,18-10-23 2:00,NULL,NULL,Not assigned,Pending,NULL,NULL
+24,7,140,19-10-23 2:30,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+25,8,160,20-10-23 3:00,5,5,Assigned,Successful,NULL,NULL
+26,9,220,21-10-23 3:30,3,3,Cancelled,Failed,Customer changed mind,Customer
+27,10,180,22-10-23 4:00,4,4,Not assigned,Failed,NULL,NULL
+28,11,170,23-10-23 4:30,NULL,NULL,Assigned,Successful,NULL,NULL
+29,12,240,24-10-23 5:00,3,2,Cancelled,Failed,Tasker unavailable,Tasker
+30,13,200,25-10-23 5:30,5,5,Assigned,Successful,NULL,NULL
+31,14,210,26-10-23 6:00,NULL,NULL,Not assigned,Pending,NULL,NULL
+32,15,130,27-10-23 6:30,5,4,Cancelled,Failed,Customer changed mind,Customer
+33,16,190,28-10-23 7:00,3,3,Assigned,Successful,NULL,NULL
+34,17,220,29-10-23 7:30,5,5,Assigned,Successful,NULL,NULL
+35,18,150,30-10-23 8:00,5,4,Not assigned,Failed,NULL,NULL
+36,19,170,31-10-23 8:30,4,4,Completed,Successful,5,4
+37,20,200,01-11-23 9:00,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+38,1,300,02-11-23 9:30,5,5,Assigned,Successful,NULL,NULL
+39,2,280,03-11-23 10:00,4,4,Assigned,Successful,NULL,NULL
+40,3,230,04-11-23 10:30,5,5,Cancelled,Failed,Customer changed mind,Customer
+41,4,190,05-11-23 11:00,3,2,Not assigned,Failed,NULL,NULL
+42,5,150,06-11-23 11:30,5,5,Assigned,Successful,NULL,NULL
+43,6,180,07-11-23 12:00,4,4,Completed,Successful,3,5
+44,7,160,08-11-23 12:30,NULL,NULL,Not assigned,Pending,NULL,NULL
+45,8,200,09-11-23 13:00,5,4,Cancelled,Failed,Customer changed mind,Customer
+46,9,230,10-11-23 13:30,5,5,Assigned,Successful,NULL,NULL
+47,10,250,11-11-23 14:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+48,11,270,12-11-23 14:30,4,4,Assigned,Successful,NULL,NULL
+49,12,290,13-11-23 15:00,3,3,Cancelled,Failed,Tasker unavailable,Tasker
+50,13,210,14-11-23 15:30,5,5,Assigned,Successful,NULL,NULL
+51,14,190,15-11-23 16:00,4,4,Cancelled,Failed,Customer changed mind,Customer
+52,15,220,16-11-23 16:30,5,5,Assigned,Successful,NULL,NULL
+53,16,250,17-11-23 17:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+54,17,180,18-11-23 17:30,4,3,Cancelled,Failed,Tasker unavailable,Tasker
+55,18,190,19-11-23 18:00,5,5,Assigned,Successful,NULL,NULL
+56,19,160,20-11-23 18:30,NULL,NULL,Not assigned,Failed,NULL,NULL
+57,20,200,21-11-23 19:00,3,2,Completed,Successful,NULL,NULL
+58,1,150,22-11-23 19:30,5,4,Cancelled,Failed,Customer changed mind,Customer
+59,2,220,23-11-23 20:00,4,4,Assigned,Successful,NULL,NULL
+60,3,240,24-11-23 20:30,5,5,Completed,Successful,5,5
+61,4,260,25-11-23 21:00,5,4,Assigned,Successful,NULL,NULL
+62,5,200,26-11-23 21:30,NULL,NULL,Not assigned,Pending,NULL,NULL
+62,6,190,27-11-23 22:00,3,3,Cancelled,Failed,Tasker unavailable,Tasker
+62,7,170,28-11-23 22:30,5,5,Assigned,Successful,NULL,NULL
+62,8,150,29-11-23 23:00,4,4,Cancelled,Failed,Customer changed mind,Customer
+62,9,180,30-11-23 23:30,5,5,Assigned,Successful,NULL,NULL
+62,10,230,01-12-23 0:00,5,5,Completed,Successful,5,4
+62,11,250,02-12-23 0:30,NULL,NULL,Not assigned,Failed,NULL,NULL
+69,12,200,03-12-23 1:00,4,4,Completed,Successful,NULL,NULL
+68,13,190,04-12-23 1:30,3,3,Cancelled,Failed,Tasker unavailable,Tasker
+67,14,220,05-12-23 2:00,5,5,Assigned,Successful,NULL,NULL
+68,15,210,06-12-23 2:30,4,4,Cancelled,Failed,Customer changed mind,Customer
+69,16,240,07-12-23 3:00,5,5,Completed,Successful,NULL,NULL
+70,17,260,08-12-23 3:30,NULL,NULL,Not assigned,Pending,NULL,NULL
+70,17,180,09-12-23 4:00,4,3,Assigned,Successful,Tasker unavailable,Tasker
+70,19,160,10-12-23 4:30,5,5,Assigned,Successful,NULL,NULL
+70,17,180,09-12-23 16:00,4,3,Completed,Successful,Tasker unavailable,Tasker
+70,19,160,10-12-23 21:30,5,5,Completed,Successful,NULL,NULL
+70,20,200,11-12-23 5:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+70,1,180,12-12-23 5:30,3,2,Assigned,Successful,NULL,NULL
+70,1,150,13-12-23 6:00,5,4,Cancelled,Failed,Tasker unavailable,Tasker
+70,3,170,14-12-23 6:30,5,5,Completed,Successful,NULL,NULL
+70,4,160,15-12-23 7:00,5,5,Completed,Successful,NULL,NULL
+71,5,230,16-12-23 7:30,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+71,6,240,17-12-23 8:00,5,5,Assigned,Successful,NULL,NULL
+71,7,220,18-12-23 8:30,NULL,NULL,Cancelled,Failed,Customer changed mind,Customer
+71,8,210,19-12-23 9:00,5,5,Assigned,Successful,NULL,NULL
+71,9,190,20-12-23 9:30,3,3,Not assigned,Failed,NULL,NULL
+71,10,200,21-12-23 10:00,5,5,Assigned,Successful,NULL,NULL
+71,11,180,22-12-23 10:30,5,4,Cancelled,Failed,Tasker unavailable,Tasker
+71,12,170,23-12-23 11:00,4,4,Assigned,Successful,NULL,NULL
+71,13,250,24-12-23 11:30,5,5,Completed,Successful,NULL,NULL
+71,14,240,25-12-23 12:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+71,15,230,26-12-23 12:30,5,5,Completed,Successful,NULL,NULL
+71,16,220,27-12-23 13:00,5,5,Completed,Successful,NULL,NULL
+71,17,200,28-12-23 13:30,3,2,Assigned,Successful,NULL,NULL
+71,18,180,29-12-23 14:00,4,4,Completed,Successful,NULL,NULL
+71,19,160,30-12-23 14:30,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+72,20,250,01-01-24 15:00,5,5,Assigned,Successful,NULL,NULL
+72,1,240,02-01-24 15:30,4,4,Assigned,Successful,NULL,NULL
+72,2,220,03-01-24 16:00,5,5,Cancelled,Failed,Customer changed mind,Customer
+72,3,200,04-01-24 16:30,3,2,Not assigned,Failed,NULL,NULL
+72,4,190,05-01-24 17:00,5,5,Assigned,Successful,NULL,NULL
+72,5,210,06-01-24 17:30,4,4,Cancelled,Failed,Tasker unavailable,Tasker
+72,6,250,07-01-24 18:00,5,5,Assigned,Successful,NULL,NULL
+72,7,230,08-01-24 18:30,NULL,NULL,Cancelled,Failed,Customer changed mind,Customer
+72,8,180,09-01-24 19:00,5,5,Assigned,Successful,NULL,NULL
+72,9,170,10-01-24 19:30,5,4,Completed,Successful,NULL,NULL
+72,10,150,11-01-24 20:00,5,5,Assigned,Successful,NULL,NULL
+72,11,160,12-01-24 20:30,3,3,Not assigned,Failed,NULL,NULL
+72,12,140,13-01-24 21:00,5,5,Cancelled,Failed,Tasker unavailable,Tasker
+72,13,130,14-01-24 21:30,4,4,Assigned,Successful,NULL,NULL
+72,14,210,15-01-24 22:00,5,5,Cancelled,Failed,Customer changed mind,Customer
+72,15,220,16-01-24 22:30,3,2,Completed,Successful,NULL,NULL
+72,16,200,17-01-24 23:00,5,5,Completed,Successful,5,5
+72,17,230,18-01-24 23:30,4,4,Completed,Successful,NULL,NULL
+72,18,250,19-01-24 0:00,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+72,19,160,20-01-24 0:30,4,3,Assigned,Successful,NULL,NULL
+72,20,180,21-01-24 1:00,5,5,Completed,Successful,Customer changed mind,Customer
+72,1,190,22-01-24 1:30,4,4,Assigned,Successful,NULL,NULL
+72,2,200,23-01-24 2:00,5,5,Completed,Successful,NULL,NULL
+72,3,210,24-01-24 2:30,5,5,Assigned,Successful,NULL,NULL
+72,4,220,25-01-24 3:00,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+72,5,180,26-01-24 3:30,3,2,Completed,Successful,NULL,NULL
+72,6,230,27-01-24 4:00,NULL,NULL,Not assigned,Failed,NULL,NULL
+72,7,250,28-01-24 4:30,5,5,Assigned,Successful,NULL,NULL
+72,8,160,29-01-24 5:00,5,5,Completed,Successful,NULL,NULL
+72,9,170,30-01-24 5:30,4,4,Assigned,Successful,NULL,NULL
+72,10,150,31-01-24 6:00,5,5,Completed,Successful,NULL,NULL
+72,11,140,01-02-24 6:30,5,5,Assigned,Successful,NULL,NULL
+72,12,220,02-02-24 7:00,5,5,Completed,Successful,NULL,NULL
+72,13,210,03-02-24 7:30,3,2,Not assigned,Failed,NULL,NULL
+72,14,200,04-02-24 8:00,5,5,Completed,Successful,NULL,NULL
+72,15,230,05-02-24 8:30,NULL,NULL,Cancelled,Failed,Tasker unavailable,Tasker
+72,16,240,06-02-24 9:00,5,5,Completed,Successful,NULL,NULL
+72,17,260,07-02-24 9:30,4,4,Cancelled,Failed,Customer changed mind,Customer
+72,18,170,08-02-24 10:00,5,5,Assigned,Successful,NULL,NULL
+72,19,160,09-02-24 10:30,4,3,Completed,Successful,NULL,NULL
+72,20,150,10-02-24 11:00,5,5,Assigned,Successful,NULL,NULL
+72,1,140,11-02-24 11:30,5,5,Completed,Successful,NULL,NULL
+72,2,220,12-02-24 12:00,4,4,Completed,Successful,NULL,NULL
+73,3,210,13-02-24 12:30,5,5,Completed,Successful,NULL,NULL
+73,4,180,14-02-24 13:00,5,5,Completed,Successful,NULL,NULL
+73,5,190,15-02-24 13:30,4,4,Completed,Successful,NULL,NULL
+73,6,200,16-02-24 14:00,5,5,Completed,Successful,NULL,NULL
+74,7,250,17-02-24 14:30,3,2,Completed,Successful,NULL,NULL
+74,8,240,18-02-24 15:00,4,4,Completed,Successful,NULL,NULL
+75,9,230,19-02-24 15:30,5,5,Completed,Successful,NULL,NULL
+75,10,220,20-02-24 16:00,5,5,Completed,Successful,NULL,NULL
+76,11,210,21-02-24 16:30,3,5,Completed,Successful,NULL,NULL
+76,12,200,22-02-24 17:00,5,5,Completed,Successful,NULL,NULL
+76,13,190,23-02-24 17:30,3,3,Completed,Successful,NULL,NULL
+76,14,220,24-02-24 18:00,4,4,Completed,Successful,NULL,NULL
+76,15,230,25-02-24 18:30,5,5,Completed,Successful,NULL,NULL
+77,16,240,26-02-24 19:00,3,2,Completed,Successful,NULL,NULL
+77,17,250,27-02-24 19:30,5,5,Completed,Successful,NULL,NULL
+78,18,180,28-02-24 20:00,5,5,Completed,Successful,NULL,NULL
+78,19,160,29-02-24 20:30,4,3,Completed,Successful,NULL,NULL
+78,20,150,01-03-24 21:00,5,5,Completed,Successful,NULL,NULL
+78,1,140,02-03-24 21:30,4,4,Completed,Successful,NULL,NULL
+78,2,220,03-03-24 22:00,5,5,Completed,Successful,NULL,NULL
+78,3,210,04-03-24 22:30,3,2,Completed,Successful,NULL,NULL
+78,4,180,05-03-24 23:00,5,5,Completed,Successful,NULL,NULL
+78,5,170,06-03-24 23:30,4,4,Completed,Successful,NULL,NULL
+78,6,250,07-03-24 0:00,5,5,Completed,Successful,NULL,NULL
+78,7,230,08-03-24 0:30,4,4,Completed,Successful,NULL,NULL
+78,8,240,09-03-24 1:00,5,5,Completed,Successful,NULL,NULL
+78,9,220,10-03-24 1:30,5,5,Completed,Successful,NULL,NULL
+78,10,210,11-03-24 2:00,3,3,Completed,Successful,NULL,NULL
+78,11,200,12-03-24 2:30,4,4,Completed,Successful,NULL,NULL
+78,12,190,13-03-24 3:00,5,5,Completed,Successful,NULL,NULL
+78,13,180,14-03-24 3:30,5,5,Completed,Successful,NULL,NULL
+78,14,160,15-03-24 4:00,4,4,Completed,Successful,NULL,NULL
+78,15,150,16-03-24 4:30,5,5,Completed,Successful,NULL,NULL
+78,16,140,17-03-24 5:00,5,5,Completed,Successful,NULL,NULL
+78,17,230,18-03-24 5:30,4,4,Completed,Successful,NULL,NULL
+78,18,240,19-03-24 6:00,5,5,Completed,Successful,NULL,NULL
+78,19,250,20-03-24 6:30,5,5,Completed,Successful,NULL,NULL
+78,20,180,21-03-24 7:00,5,5,Completed,Successful,NULL,NULL
+78,1,170,22-03-24 7:30,5,5,Completed,Successful,NULL,NULL
+78,2,260,23-03-24 8:00,5,5,Completed,Successful,NULL,NULL
+78,3,220,24-03-24 8:30,4,4,Completed,Successful,NULL,NULL
+78,4,210,25-03-24 9:00,5,5,Completed,Successful,NULL,NULL
+78,5,200,26-03-24 9:30,4,4,Completed,Successful,NULL,NULL
+78,6,190,27-03-24 10:00,5,5,Completed,Successful,NULL,NULL
+78,7,180,28-03-24 10:30,5,5,Completed,Successful,NULL,NULL
+78,8,160,29-03-24 11:00,5,5,Completed,Successful,NULL,NULL
+78,9,250,30-03-24 11:30,5,5,Completed,Successful,NULL,NULL
+78,10,240,31-03-24 12:00,5,5,Completed,Successful,NULL,NULL
+79,11,230,01-04-24 12:30,5,5,Completed,Successful,NULL,NULL
+80,12,220,02-04-24 13:00,5,5,Completed,Successful,NULL,NULL
+80,13,210,03-04-24 13:30,5,5,Completed,Successful,NULL,NULL
+80,14,200,04-04-24 14:00,5,5,Completed,Successful,NULL,NULL
+81,15,250,05-04-24 14:30,5,5,Completed,Successful,NULL,NULL
+81,16,240,06-04-24 15:00,5,5,Completed,Successful,NULL,NULL
+81,17,230,07-04-24 15:30,5,5,Completed,Successful,NULL,NULL
+81,18,220,08-04-24 16:00,5,5,Completed,Successful,NULL,NULL
+82,19,210,09-04-24 16:30,5,5,Completed,Successful,NULL,NULL
+82,20,200,10-04-24 17:00,5,5,Completed,Successful,NULL,NULL
+82,1,190,11-04-24 17:30,5,5,Completed,Successful,NULL,NULL
+82,2,180,12-04-24 18:00,5,5,Completed,Successful,NULL,NULL
+82,3,170,13-04-24 18:30,5,5,Completed,Successful,NULL,NULL
+82,4,160,14-04-24 19:00,5,5,Completed,Successful,NULL,NULL
+82,5,150,15-04-24 19:30,5,5,Completed,Successful,NULL,NULL
+82,6,140,16-04-24 20:00,5,5,Completed,Successful,NULL,NULL
+83,7,130,17-04-24 20:30,5,5,Completed,Successful,NULL,NULL
+83,8,120,18-04-24 21:00,5,5,Completed,Successful,NULL,NULL
+83,9,110,19-04-24 21:30,5,5,Completed,Successful,NULL,NULL
+83,10,100,20-04-24 22:00,5,5,Completed,Successful,NULL,NULL
+83,11,90,21-04-24 22:30,5,5,Completed,Successful,NULL,NULL
+83,12,80,22-04-24 23:00,5,5,Completed,Successful,NULL,NULL
+83,13,70,23-04-24 23:30,5,5,Completed,Successful,NULL,NULL
+83,14,60,24-04-24 0:00,5,5,Completed,Successful,NULL,NULL
+84,15,50,25-04-24 0:30,5,5,Completed,Successful,NULL,NULL
+84,16,40,26-04-24 1:00,5,5,Completed,Successful,NULL,NULL
+85,17,30,27-04-24 1:30,5,5,Completed,Successful,NULL,NULL
+85,18,20,28-04-24 2:00,5,5,Completed,Successful,NULL,NULL
+85,19,10,29-04-24 2:30,5,5,Completed,Successful,NULL,NULL
+85,20,5,30-04-24 3:00,5,5,Completed,Successful,NULL,NULL
