@@ -10,7 +10,7 @@ This project demonstrates the design and implementation of a relational database
 
 
 
-1. Entity–Relationship (ER) Diagram: Modelled with Chen’s notation to represent users, tasks, bids, and services.
+1\. Entity–Relationship (ER) Diagram: Modelled with Chen’s notation to represent users, tasks, bids, and services.
 
 
 
